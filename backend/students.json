@@ -1,0 +1,16 @@
+{
+ "students": [
+ {
+ "id": 1,
+ "name": "Arun",
+ "class": "10",
+ "fees_status": "Paid"
+ },
+ {
+ "id": 2,
+ "name": "Divya",
+ "class": "9",
+ "fees_status": "Pending"
+ }
+ ]
+}
